@@ -23,8 +23,6 @@ The application also provides a complete answer review showing the user's select
 
 # ✨ Features
 
-✅ User Name Entry
-
 ✅ Interactive Quiz Menu
 
 ✅ Multiple Choice Questions (MCQ)
@@ -54,9 +52,6 @@ Start Application
         │
         ▼
 Main Menu
-        │
-        ▼
-Enter User Name
         │
         ▼
 Quiz Starts
@@ -89,14 +84,6 @@ Detailed Answer Review
 Shows the main menu where the user can start the quiz.
 
 ![Welcome](images/welcome.png)
-
----
-
-## 👤 Enter User Name
-
-User enters their name before starting the quiz.
-
-![Name](images/name.png)
 
 ---
 
@@ -176,8 +163,7 @@ QuizApplication/
 │   └── TimerThread.java
 │
 ├── images/
-│   ├── welcome.png
-│   ├── name.png
+│   ├── welcome.png│  
 │   ├── quiz-start.png
 │   ├── timer-running.png
 │   ├── next-question.png
