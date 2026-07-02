@@ -1,108 +1,40 @@
-# 🎯 Java Quiz Application
+# 📸 Application Screenshots
 
-A professional Java Console-based Quiz Application developed using Java.
+## 👋 Welcome Screen
 
-The application allows users to enter their name, answer multiple-choice questions within a timer, and displays the final score.
-
----
-
-# ✨ Features
-
-- 👤 User Name Entry
-- ❓ Multiple Choice Questions
-- ⏱ Countdown Timer
-- ✅ Correct Answer Validation
-- ➡ Next Question Navigation
-- 📊 Final Score Display
-- 🎯 Instant Result
-- 💻 Console Based Interface
+![Welcome](images/welcome.png)
 
 ---
 
-# 📷 Screenshots
+## 🚀 Quiz Started
 
-## 🏠 Home Screen
-
-![Home](images/home.png)
+![Quiz Started](images/quiz-start.png)
 
 ---
 
-## ❓ Quiz Started
+## ⏱️ Timer Running
 
-![Quiz](images/quiz.png)
-
----
-
-## ⏱ Timer Running
-
-![Timer](images/timer.png)
+![Timer Running](images/timer-running.png)
 
 ---
 
-## 📖 Question Screen
+## ➡️ Next Question
 
-![Question](images/question.png)
-
----
-
-## 🏆 Final Result
-
-![Result](images/result.png)
+![Next Question](images/next-question.png)
 
 ---
 
-# 🛠 Technologies Used
+## 📊 Final Report
 
-- Java
-- Eclipse IDE
-- Object-Oriented Programming
-- Java Timer
-- Scanner Class
+![Final Report](images/report.png)
 
 ---
 
-# 📂 Project Structure
+## ✅ Answer Review
 
-```
+Displays every question along with:
+- Your selected answer
+- Correct answer
+- Result (Correct ✅ / Wrong ❌)
 
-Quiz-Application
-│
-├── src
-├── images
-│ ├── home.png
-│ ├── quiz.png
-│ ├── timer.png
-│ ├── question.png
-│ └── result.png
-│
-└── README.md
-
-```
-
----
-
-# 🚀 How to Run
-
-1. Clone the repository
-
-```
-
-git clone YOUR\_REPOSITORY\_LINK
-
-```
-
-2. Open Eclipse
-
-3. Import Existing Java Project
-
-4. Run Main.java
-
----
-
-# 👨‍💻 Author
-
-**Your Name**
-
----
-
-⭐ If you like this project, don't forget to Star this repository.
+![Answer Review](images/answer-review.png)
