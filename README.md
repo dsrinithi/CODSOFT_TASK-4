@@ -223,7 +223,7 @@ This project demonstrates:
 
 **Srinithi D**
 
-Computer Science and Business Systems (CSBS)
+Electronics and Communication Engineering
 
 ---
 
